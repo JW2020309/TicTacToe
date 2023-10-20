@@ -170,7 +170,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - jerilynwidjaja@gmail.com
+Email - jerilynwidjaja@gmail.com
 
 Project Link: [https://github.com/jerilynwidjaja/TicTacToe](https://github.com/jerilynwidjaja/TicTacToe)
 
