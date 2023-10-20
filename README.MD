@@ -178,10 +178,6 @@ Project Link: [https://github.com/jerilynwidjaja/TicTacToe](https://github.com/j
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jerilynwidjaja/TicTacToe.svg?style=for-the-badge
