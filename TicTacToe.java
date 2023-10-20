@@ -5,37 +5,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JFrame;
 
-/**
- * TicTacToe of two players 'X' and 'O', taking turn to make moves.  At most there are 9 moves.
- * Students are expected to implement all the TTTGamePlayMethods in class TicTacToe.
- * @author pffung
- * 
- *** STUDENTS SHOULD FINISH THIS CLASS PROPERLY TO MAKE IT WORK!
- * 
- * CSCI1130 Java Assignment 6 TicTacToe
- *
- * Remark: Name your class, variables, methods, etc. properly. 
- * You should write comment for your work and follow good styles.
- *
- * I declare that the assignment here submitted is original except for source
- * material explicitly acknowledged, and that the same or closely related
- * material has not been previously submitted for another course. I also
- * acknowledge that I am aware of University policy and regulations on honesty
- * in academic work, and of the disciplinary guidelines and procedures
- * applicable to breaches of such policy and regulations, as contained in the
- * website.
- *
- * University Guideline on Academic Honesty:
- *     http://www.cuhk.edu.hk/policy/academichonesty
- * Faculty of Engineering Guidelines to Academic Honesty:
- *     https://www.erg.cuhk.edu.hk/erg/AcademicHonesty
- *
- * Section     : CSCI1130B
- * Student Name: Jerilyn Widjaja
- * Student ID  : 1155172259
- * Date        : November 29, 2022
- *
- */
+// TicTacToe of two players 'X' and 'O', taking turn to make moves.  At most there are 9 moves.
 public class TicTacToe extends JFrame implements ActionListener, TTTGamePlayMethods {
             
     /**
@@ -50,10 +20,6 @@ public class TicTacToe extends JFrame implements ActionListener, TTTGamePlayMeth
         // This is NOT the end of the whole application.
         // Java AWT GUI stuff will take over.
     }    
-
-
-    
-    /** given instance field declarations */
     
     /** tttBoard is a 2D array of TTTButton (that is a subclass of JButton) */
     protected TTTButton[][] tttBoard;
@@ -64,10 +30,7 @@ public class TicTacToe extends JFrame implements ActionListener, TTTGamePlayMeth
 
 
     
-    /**
-     * Constructor prepares an object that is from subclass of JFrame.
-     * Given, students need NOT modify.
-     */
+    //Constructor prepares an object that is from subclass of JFrame.
     public TicTacToe()
     {
         // basic JFrame properties
@@ -106,7 +69,6 @@ public class TicTacToe extends JFrame implements ActionListener, TTTGamePlayMeth
     /**
      * Implementation of abstract method in ActionListener interface.
      * This method is invoked by the Java GUI system internally (in an AWT thread.)
-     * Given code, students need NOT modify.
      * @param event is encapsulating details of the button click
      */
     @Override
@@ -116,14 +78,14 @@ public class TicTacToe extends JFrame implements ActionListener, TTTGamePlayMeth
         int row = coord.charAt(0) - '0';
         int col = coord.charAt(2) - '0';
         
-        // send message to student's makeMove() method, providing row and col of the move
+        // send message to makeMove() method, providing row and col of the move
         makeMove(row, col);
     }
     
     /**
      * Overridden toString() method to represent the game as a String.
      * @return String representation of the board
-     * Given, need not modify
+     * Given
      */
     @Override
     public String toString()
@@ -157,7 +119,6 @@ public class TicTacToe extends JFrame implements ActionListener, TTTGamePlayMeth
         // Given, echo user action on console screen
         System.out.println((moveCount+1) + ") Player " + turn + " clicked button at (" + row + ", " + col + ")");
 
-        // STUDENT'S WORK HERE
         if (tttBoard[row][col].getPiece() == ' ') {
             tttBoard[row][col].setPiece(turn);
         }
@@ -182,7 +143,6 @@ public class TicTacToe extends JFrame implements ActionListener, TTTGamePlayMeth
         return;
     }
     
-    // STUDENT'S WORK HERE
     /**
      * Change turn AND print turn information.
      */
