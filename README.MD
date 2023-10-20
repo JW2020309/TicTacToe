@@ -162,8 +162,6 @@ Project Link: [https://github.com/jerilynwidjaja/TicTacToe](https://github.com/j
 [forks-url]: https://github.com/jerilynwidjaja/TicTacToe/network/members
 [stars-shield]: https://img.shields.io/github/stars/jerilynwidjaja/TicTacToe.svg?style=for-the-badge
 [stars-url]: https://github.com/jerilynwidjaja/TicTacToe/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jerilynwidjaja/TicTacToe.svg?style=for-the-badge
-[issues-url]: https://github.com/jerilynwidjaja/TicTacToe/issues
 [license-shield]: https://img.shields.io/github/license/jerilynwidjaja/TicTacToe.svg?style=for-the-badge
 [license-url]: https://github.com/jerilynwidjaja/TicTacToe/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
