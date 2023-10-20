@@ -75,7 +75,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Simple TicTacToe game app created with Java.
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `jerilynwidjaja`, `TicTacToe`, `jerilynwidjaja`, `email_client`, `email`, `TicTacToe`, `TicTacToe Game App for 2 Players`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
