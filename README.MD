@@ -75,7 +75,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Simple TicTacToe game app created with Java.
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `jerilynwidjaja`, `TicTacToe`, `twitter_handle`, `jerilynwidjaja`, `email_client`, `email`, `TicTacToe`, `TicTacToe Game App for 2 Players`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `jerilynwidjaja`, `TicTacToe`, `jerilynwidjaja`, `email_client`, `email`, `TicTacToe`, `TicTacToe Game App for 2 Players`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,7 +185,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - jerilynwidjaja@gmail.com
 
 Project Link: [https://github.com/jerilynwidjaja/TicTacToe](https://github.com/jerilynwidjaja/TicTacToe)
 
