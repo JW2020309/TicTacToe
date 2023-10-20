@@ -76,8 +76,6 @@
 ## About The Project
 Simple TicTacToe game app created with Java.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -93,6 +91,8 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Installation
 
