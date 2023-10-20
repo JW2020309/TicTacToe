@@ -34,11 +34,6 @@
     <a href="https://github.com/jerilynwidjaja/TicTacToe"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jerilynwidjaja/TicTacToe">View Demo</a>
-    ·
-    <a href="https://github.com/jerilynwidjaja/TicTacToe/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/jerilynwidjaja/TicTacToe/issues">Request Feature</a>
   </p>
 </div>
 
